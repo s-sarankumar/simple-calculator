@@ -1,8 +1,7 @@
+![Simple-Calculator](https://user-images.githubusercontent.com/59247040/117128458-0e93f800-adbb-11eb-898c-1cea7d20a944.png)
 # simple_calci
 
 A new Flutter application.
-
-![Simple-Calculator](https://user-images.githubusercontent.com/59247040/117128458-0e93f800-adbb-11eb-898c-1cea7d20a944.png)
 
 ## Getting Started
 
